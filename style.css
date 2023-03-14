@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+}
+
+/* header section */
+.header-parent {
+    background-color: lightpink;
+    color: brown;
+    padding: 100px;
+    text-align: center;
+}
+.header-heading {
+    margin: 0;
+    font-size: 50px;
+    padding: 25px;
+    color:magenta;
+}
+
+.header-paragraph{
+    font-size: 20px;
+    width: 65%;
+    margin: auto;
+}
+/* gallery section */
+
+.card-perant{
+text-align: center;
+/* witgh komale ora middle jai na tai center korse */
+/* height: 50%; ekhane ami hight komanor try krse  */
+}
+
+.Gallery-parent{
+    margin-top: 100px;
+    /* text-align: center; */
+}
+
+.header-Gallery {
+    text-align: center; 
+    font-size:50px ;
+     /* background: black; */
+    color:magenta;
+    /* display:inline-block;  */
+    /* ekhane etar pichone backgrount dite chise kintu seta dile pura ekta line hoye jai */
+    
+    
+}
+.card{
+  border: 2px solid brown;
+   width:15%; 
+  padding: 10px; 
+display: inline-block;
+margin:10px;
+}
+.card-image{
+    width: 100%;
+      height: 160px; 
+}
+button{
+    background-color:lightpink;
+    color:brown;
+    padding: 10px 30px;
+     /* border-radius: 5px; */
+     /* border koi theke aslo? */
+    /* 2 ta same class howar por o kno ekta middle onno ta side aslo  */
+}
+
+
+/* services section */
+.card-parent{
+    width:135% ;
+}
+
+.service-paregraf{
+  color: brown;
+}
+.hlo-color{
+    color:mediumvioletred;
+}
+.header-service{
+    text-align: center;
+    font-size: 45px;
+    color: magenta;
+}
+.services-perant{
+    margin-top: 100px;
+}
+.card-two{
+    border:2px solid brown;
+    width: 15%;
+    /* height: 50%; */
+    margin: 10px;
+    padding: 1%;
+    border-radius: 20px;
+    display: inline-block;
+    margin-bottom: 110px;
+    
+}
+
+.card-image-two{
+    width: 100%;
+    height: 200px;
+}
+
+/* last section */
+.header-parent2{
+    background-color: lightpink;
+    color: magenta;
+    /* text-align: center; */
+    height: 150px;
+    padding-top: 50px;
+    text-align: center;
+    /* text aline center dewate beshe left chole gese.kintu ager header-parent je chelo seta jaine  */
+    /* kono kaje aslo na kno  */
+    
+    
+}
+.header-heading-two {
+   font-size: 25px; 
+   margin: 0px;
+   padding: 5px;
+    /* position: relative;
+   right: 13%;  */
+
+}
+
+.header-paragraph2 {
+     /* position: relative;
+    right: 13%; */
+    color: brown;
+    font-size: 20px;
+    
+}
